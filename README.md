@@ -14,6 +14,7 @@
 
  作業連結區
 ===========
+>[練習一](https://github.com/Adam160557/PL/blob/main/pathon01.ipynb)
 
  專題連結區
 ===========
