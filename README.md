@@ -18,6 +18,7 @@
 >[練習一](https://github.com/Adam160557/PL/blob/main/pathon01.ipynb)
 
 >[HW1](https://github.com/Adam160557/PL/blob/main/HW1.ipynb)
+>[HW2](https://github.com/Adam160557/PL/blob/main/.ipynb_checkpoints/hw2-checkpoint.ipynb)
 
  專題連結區
 ===========
