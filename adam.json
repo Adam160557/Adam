@@ -1,0 +1,72 @@
+[
+  {
+    "pedal's name": "apollo",
+    "gain level": "low~mid",
+    "type": "dumble",
+    "factory": "ravenstone",
+    "price": 6800
+  },
+  {
+    "pedal's name": "moonset",
+    "gain level": "low~mid",
+    "type": "bluesbreaker",
+    "factory": "ravenstone",
+    "price": 6800
+  },
+  {
+    "pedal's name": "jan ray",
+    "gain level": "low~mid",
+    "type": "ts",
+    "factory": "vemuram",
+    "price": 12000
+  },
+  {
+    "pedal's name": "revival drive",
+    "gain level": "low~high",
+    "type": "bluesbreaker",
+    "factory": "origin effect",
+    "price": 15000
+  },
+  {
+    "pedal's name": "klon centaur",
+    "gain level": "low~mid",
+    "type": "klon",
+    "factory": "klon",
+    "price": 100000
+  },
+  {
+    "pedal's name": "ocd",
+    "gain level": "mid~high",
+    "type": "1970 dis",
+    "factory": "fulltone",
+    "price": 6000
+  },
+  {
+    "pedal's name": "1981drv",
+    "gain level": "mid~high",
+    "type": "distortion",
+    "factory": "1981 inventions",
+    "price": 9000
+  },
+  {
+    "pedal's name": "blues driver",
+    "gain level": "low~mid",
+    "type": "blues driver",
+    "factory": "boss",
+    "price": 4000
+  },
+  {
+    "pedal's name": "king of tone",
+    "gain level": "low~mid",
+    "type": "bluesbreaker",
+    "factory": "analog man",
+    "price": 15000
+  },
+  {
+    "pedal's name": "golden boy",
+    "gain level": "low~high",
+    "type": "multi",
+    "factory": "jackson",
+    "price": 12000
+  }
+]

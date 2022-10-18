@@ -1,0 +1,51 @@
+{
+  "pedals": [
+    {
+      "name": "apollo",
+      "gain": "low~mid",
+      "factory": "ravenstone"
+    },
+    {
+      "name": "moonset",
+      "gain": "low~mid",
+      "factory": "ravenstone"
+    },
+    {
+      "name": "jan ray",
+      "gain": "low~mid",
+      "factory": "vemuram"
+    },
+    {
+      "name": "revival drive",
+      "gain": "low~high",
+      "factory": "origin effect"
+    },
+    {
+      "name": "klon centaur",
+      "gain": "low~mid",
+      "factory": "klon"
+    }
+  ],
+  "pedal price": [
+    {
+      "name": "apollo",
+      "price": "6800"
+    },
+    {
+      "name": "moonset",
+      "price": "6800"
+    },
+    {
+      "name": "jan ray",
+      "price": "12000"
+    },
+    {
+      "name": "revival drive",
+      "price": "15000"
+    },
+    {
+      "name": "klon centaur",
+      "price": "100000"
+    }
+  ]
+}
