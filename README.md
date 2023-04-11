@@ -17,5 +17,7 @@
 
 ［心智圖］https://gitmind.com/app/docs/mb4zet8f
 
+［作業1］https://youtube.com/shorts/NZObKCDncoc?feature=share
+
  專題連結區
 ===========
